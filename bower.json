@@ -1,6 +1,6 @@
 {
   "name": "ng-bs-daterangepicker",
-  "description": "AngularJS directive for bootstrap-daterangepicker",
+  "description": "AngularJS directive for bootstrap-daterangepicker2",
   "version": "2.0.0",
   "main": "./src/ng-bs-daterangepicker.js",
   "dependencies": {
@@ -10,5 +10,21 @@
   },
   "devDependencies": {
     "angular-mocks": ">= 1.0.7"
-  }
+  },
+  "homepage": "https://github.com/disfeng/ng-bs-daterangepicker3",
+  "authors": [
+    "junyi.chen <disfeng1986@163.com>"
+  ],
+  "keywords": [
+    "ng-bs-daterangepick2"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
