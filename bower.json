@@ -1,5 +1,5 @@
 {
-  "name": "ng-bs-daterangepicker",
+  "name": "ng-bs-daterangepicker3",
   "description": "AngularJS directive for bootstrap-daterangepicker2",
   "version": "2.0.0",
   "main": "./src/ng-bs-daterangepicker.js",
