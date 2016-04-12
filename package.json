@@ -1,12 +1,12 @@
 {
   "name": "ng-bs-daterangepicker3",
   "description": "AngularJS directive for bootstrap-daterangepicker2+",
-  "version": "2.0.0",
+  "version": "0.0.5",
   "filename": "./src/ng-bs-daterangepicker.js",
   "homepage": "https://github.com/disfeng/ng-bs-daterangepicker3",
   "author": {
-    "name": "Luis Farzati",
-    "email": "lfarzati@gmail.com",
+    "name": "junyi chen",
+    "email": "disfeng1986@163.com",
     "url": "https://github.com/disfeng"
   },
   "repository": {
