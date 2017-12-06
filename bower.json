@@ -1,7 +1,7 @@
 {
   "name": "ng-bs-daterangepicker3",
   "description": "AngularJS directive for bootstrap-daterangepicker2",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "main": "./src/ng-bs-daterangepicker.js",
   "dependencies": {
     "angular": ">= 1.4.8",
